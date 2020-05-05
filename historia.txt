@@ -4,3 +4,5 @@ Sergio tiene 52 años y nació en Argentina,
 viviendo en todo el mundo
 
 Hoy vamos a hablar de su historia.
+
+Está usando un polar gris.
